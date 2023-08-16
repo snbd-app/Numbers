@@ -133,5 +133,7 @@
   "sorts" : "[{\"sortValue\":\"name\",\"isForward\":true}]",
   "audioSource" : "https:\/\/freesound.org\/people\/tim.kahn\/packs\/4372\/",
   "description" : "English numbers from 0 to 20.",
+  "size" : 2515092,
+  "duration" : 13,
   "name" : "Numbers"
 }
